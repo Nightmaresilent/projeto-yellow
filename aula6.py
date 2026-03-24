@@ -1,0 +1,5 @@
+numero_1 = input ('digite um número? ')
+numero_2 = input ('digite outro número? ')
+print (f'a soma de {numero_1} + {numero_2}')
+resultado = int(numero_1) +  int(numero_2)
+print (f'o resultado é {resultado}')
